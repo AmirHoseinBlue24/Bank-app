@@ -1,0 +1,24 @@
+[
+    {
+        "user": "AmirAkhlagh",
+        "pass": "1234",
+        "card": "6037708122214321",
+        "account_no": "77665544332211",
+        "sheba_no": "IR0987654321",
+        "name": "Amir",
+        "last": "Akhlaghdost",
+        "balance": 800000,
+        "is_active": true
+    },
+    {
+        "user": "Amir",
+        "pass": "1234",
+        "card": "6037709981222233",
+        "account_no": "11223344556677",
+        "sheba_no": "IR0123456789",
+        "name": "Amir2",
+        "last": "Akhlaghdost",
+        "balance": 7999974400,
+        "is_active": true
+    }
+]
